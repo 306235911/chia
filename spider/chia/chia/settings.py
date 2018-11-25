@@ -41,7 +41,7 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
     "user-agent":
-    "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)",
+    "Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.30)",
 }
 
 USER_AGENTS = [
