@@ -40,7 +40,7 @@ class HxSpider(scrapy.Spider):
             content=content,
             html_content=html_content,
             imgs=imgs,
-            data=int(time.time())
+            date=int(time.time())
         )
         yield item
 
